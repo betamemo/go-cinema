@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/betamemo/go-cinema/movie"
-	"github.com/betamemo/go-cinema/ticket"
+	"github.com/betamemo/go-cinema/tickets"
 )
 
 func main() {
