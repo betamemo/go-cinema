@@ -7,10 +7,6 @@ import (
 	"github.com/betamemo/go-cinema/ticket"
 )
 
-func init() {
-	fmt.Println("init: main")
-}
-
 func main() {
 	movieName := movie.FindName("tt4154796")
 	fmt.Println(movieName)
