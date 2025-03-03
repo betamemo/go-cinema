@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/betamemo/cinema/movie"
-	"github.com/betamemo/cinema/ticket"
+	"github.com/betamemo/go-cinema/movie"
+	"github.com/betamemo/go-cinema/ticket"
 )
 
 func init() {

@@ -2,7 +2,7 @@ package ticket
 
 import "fmt"
 
-func init(){
+func init() {
 	fmt.Println("init: ticket")
 }
 
